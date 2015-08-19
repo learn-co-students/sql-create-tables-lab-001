@@ -40,5 +40,5 @@ Create a table called cats with the following columns and types:
 |age    |integer|
 |gender |char(1)(The choices would be "M" or "F")|
 |breed  |text   |
-|temperment|text|
+|temperament|text|
 |declawed |boolean|
