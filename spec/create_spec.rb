@@ -21,8 +21,8 @@ describe "Creating a cats table" do
     expect{@db.execute("SELECT breed FROM cats;")}.to_not raise_exception
   end
 
-  it "creates a cats table with a temperment field" do
-    expect{@db.execute("SELECT temperment FROM cats;")}.to_not raise_exception
+  it "creates a cats table with a temperament field" do
+    expect{@db.execute("SELECT temperament FROM cats;")}.to_not raise_exception
   end
 
   it "creates a cats table with a declawed field" do
