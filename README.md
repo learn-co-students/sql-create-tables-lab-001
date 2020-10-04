@@ -9,7 +9,7 @@ Building off of what we've learned about creating tables and column types, let's
 1. Learn to write SQL CREATE statements
 2. Learn about the different column types supported in SQL and SQLite3
 
-## About this Lab
+## About This Lab
 
 Let's take a look at this lab's structure, which will seem slightly different than what you've been working with before.
 
